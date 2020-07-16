@@ -1,0 +1,28 @@
+body {
+	background-color: #ac52ff;
+}
+
+a {
+	color: rgb(109, 255, 165);
+	text-decoration: underline;
+}
+
+p {
+	text-align: center;
+}
+
+.container .jumbotron {
+	background-color: rgb(71, 181, 255);
+	text-align: center;
+}
+
+.container .panel-info {
+	background-color: rgb(129, 91, 156);
+	color: rgb(0, 0, 0);
+}
+
+.container .panel-heading {
+	background-color: indigo;
+	text-align: center;
+	color: rgb(131, 223, 253);
+}
